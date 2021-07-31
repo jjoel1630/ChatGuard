@@ -1,0 +1,33 @@
+.analysis {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	/* height: 100vh; */
+	font-family: "Raleway", sans-serif;
+}
+
+.arrow {
+	box-sizing: border-box;
+	height: 3vw;
+	width: 3vw;
+	border-style: solid;
+	border-color: #3d88ff;
+	border-width: 0px 3px 3px 0px;
+	transform: rotate(45deg);
+	transition: border-width 150ms ease-in-out;
+}
+
+.arrow:hover {
+	border-bottom-width: 6px;
+	border-right-width: 6px;
+}
+
+.arrow-container {
+	margin-bottom: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* background-color: #0e242d; */
+	height: 13%;
+}

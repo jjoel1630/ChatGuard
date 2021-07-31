@@ -1,0 +1,127 @@
+{
+	"Header": {
+		"title": "We are a Landing Page",
+		"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+	},
+	"About": {
+		"paragraph": "As more kids start using the internet, sexual harrasment rates have skyrocketed for minors. Every nine minutes, one child is sexually abused. Chatguard is a free service that helps fight sexual harrasment and pedophiles. With just an upload, we intend on eliminating that number. Chatguard is a safespace for all kids. Our goal is to make a change in our community",
+		"Why": ["Safe Space For Kids", "Free to Use"],
+		"Why2": ["Simple and Easy", "Fights Sexual Harrasment"]
+	},
+	"Services": [
+		{
+			"icon": "fa fa-wordpress",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-cart-arrow-down",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-cloud-download",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-language",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-plane",
+			"name": "Lorem ipsum dolor",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		},
+		{
+			"icon": "fa fa-pie-chart",
+			"name": "Consectetur adipiscing",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+		}
+	],
+	"Testimonials": [
+		{
+			"img": "img/testimonials/01.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/02.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/03.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/04.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/05.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/06.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		}
+	],
+	"Team": [
+		{
+			"img": "img/team/joel.jpg",
+			"name": "Joel Johnson",
+			"job": "Full Stack, Backend"
+		},
+		{
+			"img": "img/team/aryamanphoto.png",
+			"name": "Aryaman Kukal",
+			"job": "Full Stack, Backend"
+		},
+		{
+			"img": "img/team/chaitya.jpg",
+			"name": "Chaitya Jodhavat",
+			"job": "Frontend, UI Developer"
+		},
+		{
+			"img": "img/team/sriram.jpg",
+			"name": "Sriram Natarajan",
+			"job": "Frontend, UI Developer"
+		}
+	],
+	"Contact": {
+		"address": "4321 California St, San Francisco, CA 12345 ",
+		"phone": "+1 123 456 1234",
+		"email": "info@company.com",
+		"facebook": "fb.com",
+		"twitter": "twitter.com",
+		"youtube": "youtube.com"
+	},
+	"Features": [
+		{
+			"icon": "fa fa-upload",
+			"title": "Upload",
+			"text": "Upload any creepy or uncomfortable messages and we will determine if you are being harrased by a pedophile. "
+		},
+		{
+			"icon": "fa fa-file-text-o",
+			"title": "Form",
+			"text": "Fill out a survery on your situation and our website will determine the severity of your situation."
+		},
+		{
+			"icon": "fa fa-user-plus",
+			"title": "Create A Profile",
+			"text": "You can list any pedophiles or creepy people that you have noticed for others to watch out for."
+		},
+		{
+			"icon": "fa fa-phone",
+			"title": "Get Help",
+			"text": "Find a list of resources that can support you if you need urgent help. Find therapy centers near you."
+		}
+	]
+}

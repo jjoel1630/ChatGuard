@@ -1,0 +1,83 @@
+.pedo-container {
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	/* padding-top: 4em; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+/* .pedo-header {
+	height: 40%;
+}
+
+.pedo-header > h1 {
+	text-align: center;
+} */
+
+.pedo-fluid {
+	width: 100%;
+	height: 60%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.pedo-form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* margin-top: 5em; */
+	text-align: center;
+}
+
+.textinput {
+	height: 2.8em;
+	width: 60%;
+	margin-top: 1em;
+	outline: none;
+	border: 2px solid #cdcdcd;
+	border-color: rgba(0, 0, 0, 0.15);
+	background-color: white;
+	border-radius: 15px;
+	padding-left: 20px;
+	/* padding-right: 20px; */
+	font-size: 2rem;
+	transition: all 0.4s ease;
+}
+
+.textinput:focus {
+	/* background-color: rgb(86, 91, 100); */
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #3d88ff;
+	/* border: none; */
+	border-color: #3d88ff;
+	border-width: 1px;
+	height: 3.8em;
+	transition: all 0.4s ease;
+	box-shadow: 0 10px 30px 1px rgb(0 0 0 / 60%);
+}
+
+.submitButton {
+	border: none;
+	color: black;
+	background-color: #3d88ff;
+	border-radius: 15px;
+	font-size: 2rem;
+	margin-top: 0.7em;
+	height: 8vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.submitButton:hover {
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #3d88ff;
+	border-color: #3d88ff;
+	transition: all 0.4s ease;
+}
